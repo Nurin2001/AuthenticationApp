@@ -6,9 +6,10 @@ Watch the short video demonstration of the app in action:
 
 > 💡 *Click the thumbnail above to watch the full YouTube Short demo.*
 
-<img width="540" height="1170" alt="image" src="https://github.com/user-attachments/assets/1950a681-e875-4838-8b4d-3f430f6e12b0" />
-<img width="540" height="1170" alt="image" src="https://github.com/user-attachments/assets/d2430159-d933-4039-b127-9378898af0b1" />
-<img width="540" height="1170" alt="image" src="https://github.com/user-attachments/assets/25709744-6c60-4a8f-8386-a61dd4fd4870" />
+<img width="270" height="585" alt="image" src="https://github.com/user-attachments/assets/1950a681-e875-4838-8b4d-3f430f6e12b0" />
+<img width="270" height="585" alt="image" src="https://github.com/user-attachments/assets/d2430159-d933-4039-b127-9378898af0b1" />
+<img width="270" height="585" alt="image" src="https://github.com/user-attachments/assets/262283a2-355a-4129-a880-72706f6509a2" />
+
 
 # Mobile Authentication App
 
