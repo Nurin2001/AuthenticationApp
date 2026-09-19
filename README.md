@@ -67,6 +67,8 @@ yarn ios
 yarn android
 ```
 
+---
+
 ##🔒 Security & Production Architecture Considerations
 While this assessment uses local state and mock storage to simulate token emission and registration, a full production deployment would implement:
 
@@ -74,4 +76,4 @@ Hardware-Backed Secure Storage: Replacing AsyncStorage with react-native-keychai
 
 JWT Refresh Lifecycles: Implementing short-lived access tokens alongside HTTP-only refresh tokens handled through Axios response interceptors.
 
----
+
