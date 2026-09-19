@@ -68,7 +68,6 @@ yarn android
 ```
 
 ##🔒 Security & Production Architecture Considerations
-
 While this assessment uses local state and mock storage to simulate token emission and registration, a full production deployment would implement:
 
 Hardware-Backed Secure Storage: Replacing AsyncStorage with react-native-keychain or Expo SecureStore for hardware-encrypted token persistence[cite: 1].
